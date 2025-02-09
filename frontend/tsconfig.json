@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "compilerOptions": {
     "module": "commonjs",
     "declaration": true,
@@ -19,11 +18,4 @@
     "strictBindCallApply": false,
     "noFallthroughCasesInSwitch": false
   }
-=======
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ]
->>>>>>> 91646c8 (commit front)
 }
